@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AHI Pin=P1-28
+Removed Pin From Net: NetName=BLI Pin=P1-30
+Added Pin To Net: NetName=BLI Pin=P1-28
+Added Pin To Net: NetName=AHI Pin=P1-30

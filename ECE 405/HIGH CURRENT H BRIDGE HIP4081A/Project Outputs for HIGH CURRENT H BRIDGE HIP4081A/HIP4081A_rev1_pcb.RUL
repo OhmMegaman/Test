@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\ECE 405\HIGH CURRENT H BRIDGE HIP4081A\HIP4081A_rev1_pcb.PcbDoc
+RuleKind=Width|RuleName=Gate_Drive_Nets|Scope=Board|Minimum=30.00
+RuleKind=Width|RuleName=Power_Nets|Scope=Board|Minimum=50.00
+RuleKind=Width|RuleName=Power_Width|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=12.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Input Signal Nets|Scope=Board|Minimum=10.00

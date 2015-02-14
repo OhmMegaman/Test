@@ -1,0 +1,62 @@
+<?xml version = "1.0" ?>
+<?xml:stylesheet type="text/xsl" href="HIGH CURRENT H BRIDGE HIP4081A.xsl"?>
+<!DOCTYPE GRID [
+  <!ELEMENT GRID (BANDS, COLUMNS, ROWS*)>
+  <!ATTLIST GRID ExportVersion CDATA #REQUIRED>
+  <!ELEMENT BANDS (BAND*)>
+  <!ELEMENT BAND EMPTY>
+  <!ATTLIST BAND Index CDATA #REQUIRED>
+  <!ATTLIST BAND Caption CDATA #IMPLIED>
+  <!ELEMENT COLUMNS (COLUMN*)>
+  <!ELEMENT COLUMN EMPTY>
+  <!ATTLIST COLUMN Name CDATA #REQUIRED>
+  <!ATTLIST COLUMN Caption CDATA #IMPLIED>
+  <!ATTLIST COLUMN Index CDATA #REQUIRED>
+  <!ATTLIST COLUMN BandIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN RowIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN ColIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN Width CDATA #IMPLIED>
+  <!ELEMENT GROUP (GROUP*, ROW*)>
+  <!ATTLIST GROUP GroupText CDATA #IMPLIED>
+  <!ELEMENT ROWS (ROW*)>
+  <!ELEMENT ROW EMPTY>
+  <!ATTLIST ROW Comment CDATA #IMPLIED>
+  <!ATTLIST ROW Description CDATA #IMPLIED>
+  <!ATTLIST ROW Designator CDATA #IMPLIED>
+  <!ATTLIST ROW Digikey CDATA #IMPLIED>
+  <!ATTLIST ROW Footprint CDATA #IMPLIED>
+  <!ATTLIST ROW LibRef CDATA #IMPLIED>
+  <!ATTLIST ROW Quantity CDATA #IMPLIED>
+]>
+<GRID ExportVersion="1.0">
+  <BANDS>
+    <BAND Index="0" Caption=""></BAND>
+  </BANDS>
+  <COLUMNS>
+    <COLUMN Name="Comment" Caption="Comment" Index="8" BandIndex="0" RowIndex="0" ColIndex="0" Width="131"></COLUMN>
+    <COLUMN Name="Description" Caption="Description" Index="15" BandIndex="0" RowIndex="0" ColIndex="1" Width="131"></COLUMN>
+    <COLUMN Name="Designator" Caption="Designator" Index="16" BandIndex="0" RowIndex="0" ColIndex="2" Width="214"></COLUMN>
+    <COLUMN Name="Digikey" Caption="Digikey" Index="22" BandIndex="0" RowIndex="0" ColIndex="3" Width="286"></COLUMN>
+    <COLUMN Name="Footprint" Caption="Footprint" Index="29" BandIndex="0" RowIndex="0" ColIndex="4" Width="83"></COLUMN>
+    <COLUMN Name="LibRef" Caption="LibRef" Index="39" BandIndex="0" RowIndex="0" ColIndex="5" Width="42"></COLUMN>
+    <COLUMN Name="Quantity" Caption="Quantity" Index="58" BandIndex="0" RowIndex="0" ColIndex="6" Width="35"></COLUMN>
+  </COLUMNS>
+  <ROWS>
+    <ROW Comment="Cap Alum" Description="Polarized Capacitor &#40;Radial&#41;" Designator="C1" Digikey="P12383-ND" Footprint="CAPPR3.5-8x11.5" LibRef="Cap Pol1" Quantity="1"></ROW>
+    <ROW Comment="Cap Tant" Description="Polarized Capacitor &#40;Surface Mount&#41;" Designator="C2" Digikey="399-10128-1-ND" Footprint="CP1206" LibRef="Cap Pol3" Quantity="1"></ROW>
+    <ROW Comment="0805" Description="Capacitor &#40;Semiconductor SIM Model&#41;" Designator="C3, C5, C6" Digikey="311-1358-1-ND, 445-6803-1-ND" Footprint="C0805" LibRef="Cap Semi" Quantity="3"></ROW>
+    <ROW Comment="0805" Description="Capacitor &#40;Semiconductor SIM Model&#41;" Designator="C4" Digikey="445-4012-1-ND" Footprint="C1206" LibRef="Cap Semi" Quantity="1"></ROW>
+    <ROW Comment="D Schottky" Description="Schottky Diode" Designator="D1, D2, D3, D5" Digikey="B160B-FDICT-ND" Footprint="SMB" LibRef="D Schottky" Quantity="4"></ROW>
+    <ROW Comment="PMEG3030EP,115" Description="PMEG3030EP,115" Designator="D4" Digikey="568-6753-1-ND" Footprint="SOD128" LibRef="D Schottky" Quantity="1"></ROW>
+    <ROW Comment="TVS" Description="Bi-directional TVS diode" Designator="D6" Digikey="SMCJ22CAFSCT-ND" Footprint="DSO-C2/X3.3" LibRef="TVS_Bi" Quantity="1"></ROW>
+    <ROW Comment="Diode" Description="Default Diode" Designator="D7, D8" Digikey="ES1B-FDICT-ND" Footprint="DSO-C2/G1.6" LibRef="Diode" Quantity="2"></ROW>
+    <ROW Comment="LED2" Description="Ultra Bright YELLOW ORANGE AlInGaP LED" Designator="D9" Digikey="160-1413-1-ND" Footprint="C0805" LibRef="LED2" Quantity="1"></ROW>
+    <ROW Comment="Fuse 2" Description="Fuse" Designator="F1" Digikey="" Footprint="3550-2 ATC Fuse Holder" LibRef="Fuse 2" Quantity="1"></ROW>
+    <ROW Comment="Header 20X2H" Description="Header, 20-Pin, Dual row, Right Angle" Designator="P1" Digikey="" Footprint="HDR2X20H" LibRef="Header 20X2H" Quantity="1"></ROW>
+    <ROW Comment="Header 6" Description="Header, 6-Pin" Designator="P2" Digikey="" Footprint="B6PS-VH" LibRef="Header 6" Quantity="1"></ROW>
+    <ROW Comment="1206" Description="Resistor" Designator="R1, R2, R3, R4, R5, R6, R7, R8, R9, R12" Digikey="311-1.0KERCT-ND, 311-10KERCT-ND, 311-75ERCT-ND" Footprint="RESC3216N" LibRef="Res3" Quantity="10"></ROW>
+    <ROW Comment="1206" Description="Resistor" Designator="R10, R11" Digikey="541-243KFCT-ND" Footprint="C1206" LibRef="Res3" Quantity="2"></ROW>
+    <ROW Comment="Test point" Description="Test point pad" Designator="TP1, TP2" Digikey="" Footprint="Test_Pad" LibRef="Test_Pad" Quantity="2"></ROW>
+    <ROW Comment="HIP4081A" Description="80V/2.5A Peak, High Frequency Full Bridge FET Driver" Designator="U1" Digikey="HIP4081AIBZTCT-ND" Footprint="SOIC127P1030-20M" LibRef="HIP4081A" Quantity="1"></ROW>
+  </ROWS>
+</GRID>

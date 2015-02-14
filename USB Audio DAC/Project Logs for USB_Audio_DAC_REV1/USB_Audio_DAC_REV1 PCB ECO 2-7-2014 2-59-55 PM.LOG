@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC14_2 Pin=Y1-2
+Change Component DesignItemId : Designator=Y1 Old DesignItemId=XTAL New DesignItemId=XTAL-4
+Change Component Footprint: Designator=C14 Old Footprint=C0805 New Footprint=CAPC1608L
+Change Component Footprint: Designator=C16 Old Footprint=C0805 New Footprint=CAPC1608L
+Change Component Footprint: Designator=Y1 Old Footprint=TXC-9C New Footprint=TXC-7M
+Change Component Comment : Designator=Y1 Old Comment=XTAL New Comment=12MHz
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC14_2 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4

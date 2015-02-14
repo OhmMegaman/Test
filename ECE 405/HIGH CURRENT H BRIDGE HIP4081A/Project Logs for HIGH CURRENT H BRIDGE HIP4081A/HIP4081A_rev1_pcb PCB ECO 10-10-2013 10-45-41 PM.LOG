@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=12V BATTERY Pin=D4-1
+Removed Pin From Net: NetName=NetD3_1 Pin=P2-4
+Removed Pin From Net: NetName=NetD2_1 Pin=P2-6
+Removed Pin From Net: NetName=NetD5_1 Pin=P2-9
+Removed Pin From Net: NetName=BHS Pin=P2-10
+Removed Pin From Net: NetName=12V BATTERY Pin=TP1-1
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 5X2H New DesignItemId=Header 6
+Change Component Footprint: Designator=P2 Old Footprint=HDR2X5H New Footprint=B6PS-VH
+Change Component Comment : Designator=P2 Old Comment=Header 5X2H New Comment=Header 6
+Added Component: Designator=F1(3550-2 ATC Fuse Holder)
+Added Pin To Net: NetName=12V BATTERY Pin=F1-1
+Added Pin To Net: NetName=12V BATTERY Pin=F1-1
+Added Pin To Net: NetName=NetD3_1 Pin=P2-3
+Added Pin To Net: NetName=NetD2_1 Pin=P2-4
+Added Pin To Net: NetName=BHS Pin=P2-5
+Added Pin To Net: NetName=NetD5_1 Pin=P2-6
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=F1-2
+Added Pin To Net: NetName=NetD4_1 Pin=F1-2
+Added Pin To Net: NetName=NetD4_1 Pin=TP1-1
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=Sheet1 Member=Component F1 Fuse 2
+Added Room: Name=Sheet1

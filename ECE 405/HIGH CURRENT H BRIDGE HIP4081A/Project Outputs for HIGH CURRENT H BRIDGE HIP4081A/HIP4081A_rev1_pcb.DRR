@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: HIP4081A_rev1_pcb.PcbDoc   10/16/2013  9:24:19 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HIP4081A_rev1_pcb.TXT
+EIA File   : HIP4081A_rev1_pcb.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.46mm (18.11mil)        Round          2                17.24 mm (0.68 Inch)
+T2        0.71mm (27.953mil)       Round          12               95.22 mm (3.75 Inch)
+T3        0.76mm (29.921mil)       Round          4                72.71 mm (2.86 Inch)
+T4        0.9mm (35.433mil)        Round          42               119.90 mm (4.72 Inch)
+T5        1.7mm (66.929mil)        Round          6                19.80 mm (0.78 Inch)
+T6        1.78mm (70.079mil)       Round          2                8.90 mm (0.35 Inch)
+T7        2.79mm (109.843mil)      Round          2                8.90 mm (0.35 Inch)
+---------------------------------------------------------------------------
+Totals                                            70               342.67 mm (13.49 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

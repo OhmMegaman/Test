@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [HIGH CURRENT H BRIDGE HIP4081A.PrjPCB]
+   Generated File[HIP4081A_rev1_pcb.GTL]
+   Generated File[HIP4081A_rev1_pcb.GBL]
+   Generated File[HIP4081A_rev1_pcb.GTO]
+   Generated File[HIP4081A_rev1_pcb.GTS]
+   Generated File[HIP4081A_rev1_pcb.GBS]
+   Generated File[HIP4081A_rev1_pcb.GBO]
+   Generated File[HIP4081A_rev1_pcb.GKO]
+   Generated File[HIP4081A_rev1_pcb.RUL]
+   Generated File[HIP4081A_rev1_pcb.EXTREP]
+   Generated File[HIP4081A_rev1_pcb.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 10:54:14 PM On 10/27/2013

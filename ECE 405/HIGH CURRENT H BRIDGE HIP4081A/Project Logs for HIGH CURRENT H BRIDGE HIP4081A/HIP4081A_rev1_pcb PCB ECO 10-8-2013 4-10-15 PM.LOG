@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ALI Pin=P1-27
+Removed Pin From Net: NetName=AHI Pin=P1-28
+Removed Pin From Net: NetName=ALI Pin=R4-1
+Removed Pin From Net: NetName=AHI Pin=R6-1
+Added Pin To Net: NetName=AHI Pin=P1-27
+Added Pin To Net: NetName=ALI Pin=P1-28
+Added Pin To Net: NetName=AHI Pin=R4-1
+Added Pin To Net: NetName=ALI Pin=R6-1

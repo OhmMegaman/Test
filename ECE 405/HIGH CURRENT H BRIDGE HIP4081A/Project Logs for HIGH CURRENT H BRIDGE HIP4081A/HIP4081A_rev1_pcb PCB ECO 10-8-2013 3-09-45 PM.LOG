@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BHO Pin=D2-2
+Removed Pin From Net: NetName=BLO Pin=D5-2
+Removed Pin From Net: NetName=BHS Pin=P2-4
+Removed Pin From Net: NetName=BHO Pin=R2-2
+Removed Pin From Net: NetName=BLO Pin=R9-2
+Added Pin To Net: NetName=BLO Pin=D2-2
+Added Pin To Net: NetName=BHO Pin=D5-2
+Added Pin To Net: NetName=BHS Pin=P2-10
+Added Pin To Net: NetName=BLO Pin=R2-2
+Added Pin To Net: NetName=BHO Pin=R9-2

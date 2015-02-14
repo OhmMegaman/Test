@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [USB_Audio_DAC_REV1.PrjPCB]
+   Generated File[USB_Audio_DAC_REV1.TXT]
+   Generated File[USB_Audio_DAC_REV1.DRL]
+   Generated File[USB_Audio_DAC_REV1.LDP]
+   Generated File[USB_Audio_DAC_REV1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:59:20 AM On 2/14/2014

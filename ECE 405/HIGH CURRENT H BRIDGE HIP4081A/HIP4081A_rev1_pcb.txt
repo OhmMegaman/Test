@@ -1,0 +1,16 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~HIGH CURRENT H BRIDGE HIP4081A.PrjPCB|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Projects\ECE 405\HIGH CURRENT H BRIDGE HIP4081A\HIGH CURRENT H BRIDGE HIP4081A.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [HIP4081A_rev1_pcb.PcbDoc]|ReportField=TotalQuantity~31|ReportField=ReportTime~10:59:15 AM|ReportField=ReportDate~10/10/2013|ReportField=ReportDateTime~10/10/2013 10:59:15 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~HIP4081A_rev1_pcb.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\ECE 405\HIGH CURRENT H BRIDGE HIP4081A\HIP4081A_rev1_pcb.PcbDoc
+LED2|Ultra Bright YELLOW ORANGE AlInGaP LED|D9|C0805|LED2|1
+0805|Capacitor (Semiconductor SIM Model)|C3, C5|C0805|Cap Semi|2
+0805|Capacitor (Semiconductor SIM Model)|C4|C1206|Cap Semi|1
+1206|Resistor|R10, R11|C1206|Res3|2
+Cap Alum|Polarized Capacitor (Radial)|C1|CAPPR5-10x25|Cap Pol1|1
+Cap Tant|Polarized Capacitor (Surface Mount)|C2|CP1206|Cap Pol3|1
+Diode|Default Diode|D7, D8|DSO-C2/G1.6|Diode|2
+TVS|Bi-directional TVS diode|D6|DSO-C2/X3.3|TVS_Bi|1
+Header 5X2H|Header, 5-Pin, Dual row, Right Angle|P2|HDR2X5H|Header 5X2H|1
+Header 20X2H|Header, 20-Pin, Dual row, Right Angle|P1|HDR2X20H|Header 20X2H|1
+1206|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R12|RESC3216N|Res3|10
+D Schottky|Schottky Diode|D1, D2, D3, D5|SMB|D Schottky|4
+PMEG3030EP,115|PMEG3030EP,115|D4|SOD128|D Schottky|1
+HIP4081A|80V/2.5A Peak, High Frequency Full Bridge FET Driver|U1|SOIC127P1030-20M|HIP4081A|1
+Test point|Test point pad|TP1, TP2|Test_Pad|Test_Pad|2
